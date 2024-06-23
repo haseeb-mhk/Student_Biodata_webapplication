@@ -1,0 +1,2 @@
+create a database name as biodata
+and then simple goto import and select file student sql file and press go 
